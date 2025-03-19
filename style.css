@@ -1,0 +1,24 @@
+body{
+    text-align: center;
+}
+button{
+    height: 40px;
+    width: 120px;
+    background-color:cornflowerblue;
+    color:cornsilk;
+
+}
+button:hover{
+    cursor: pointer;
+    background-color:darkgrey;
+    color:rgb(222, 113, 77);
+}
+.dark{
+    background-color:darkgrey;
+    color:bisque;
+}
+
+.light{
+    background-color:bisque;
+    color:darkgrey
+}
